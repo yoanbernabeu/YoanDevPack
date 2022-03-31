@@ -34,21 +34,42 @@ I publish videos on Youtube (https://www.youtube.com/c/yoandevco) and this pack 
 
 - [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 
+### Docker
 
-        "ahmadawais.emoji-log-vscode", 
-        "dracula-theme.theme-dracula", 
-        "eamodio.gitlens", 
-        "GitLab.gitlab-workflow", 
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
+- [Docker Compose](https://marketplace.visualstudio.com/items?itemName=p1c2u.docker-compose)
+
+- [Remote Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
+### SSH
+
+- [Remote SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+
+- [Remote SSH Edit](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
+
+### Git
+
+- [Emoji Log](https://marketplace.visualstudio.com/items?itemName=ahmadawais.emoji-log-vscode)
+
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+- [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=Gitlab.gitlab-workflow)
+
+### Style
+
+- [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+
         "junstyle.php-cs-fixer", 
-        "marp-team.marp-vscode", 
-        "mechatroner.rainbow-csv", 
-        "mhutchie.git-graph", 
         "mikestead.dotenv", 
-        "ms-azuretools.vscode-docker", 
-        "ms-vscode-remote.remote-containers", 
-        "ms-vscode-remote.remote-ssh", 
-        "ms-vscode-remote.remote-ssh-edit", 
-        "p1c2u.docker-compose", 
-        "PKief.material-icon-theme", 
         "ritwickdey.LiveServer", 
         "tomasvergara.vscode-fontawesome-gallery"

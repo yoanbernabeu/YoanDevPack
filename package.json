@@ -41,6 +41,7 @@
         "ritwickdey.LiveServer", 
         "tomasvergara.vscode-fontawesome-gallery",
         "neilbrayfield.php-docblocker",
-        "mblode.twig-language-2"
+        "mblode.twig-language-2",
+        "oderwat.indent-rainbow"
     ]
 }
