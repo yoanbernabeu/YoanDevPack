@@ -3,6 +3,12 @@
     "displayName": "YoanDevPack",
     "description": "Best Extensions for PHP/Symfony Developers",
     "version": "0.0.1",
+    "author": "Yoan Bernabeu",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yoanbernabeu/YoanDevPack"
+    },
+    "publisher": "YoanBernabeu",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -33,6 +39,6 @@
         "p1c2u.docker-compose", 
         "PKief.material-icon-theme", 
         "ritwickdey.LiveServer", 
-        "tomasvergara.vscode-fontawesome-gallery", 
+        "tomasvergara.vscode-fontawesome-gallery"
     ]
 }
