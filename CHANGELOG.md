@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "yoandevpack" extension pack will be documented in this file.
+## [0.0.3]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Improved the documentation.
 
-## [Unreleased]
+## [0.0.2]
 
-- Initial release
+- Adding the logo.
+
+## [0.0.1]
+
+- Initial release.
