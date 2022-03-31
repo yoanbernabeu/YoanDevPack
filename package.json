@@ -23,7 +23,6 @@
         "cweijan.vscode-mysql-client2", 
         "dracula-theme.theme-dracula", 
         "eamodio.gitlens", 
-        "felixfbecker.php-intellisense", 
         "GitLab.gitlab-workflow", 
         "joffreykern.markdown-toc", 
         "junstyle.php-cs-fixer", 
@@ -40,6 +39,8 @@
         "p1c2u.docker-compose", 
         "PKief.material-icon-theme", 
         "ritwickdey.LiveServer", 
-        "tomasvergara.vscode-fontawesome-gallery"
+        "tomasvergara.vscode-fontawesome-gallery",
+        "neilbrayfield.php-docblocker",
+        "mblode.twig-language-2"
     ]
 }
