@@ -2,7 +2,7 @@
 
 Best Extensions for PHP/Symfony Developers for VSCode
 
-## Why this expansion pack ?
+## Why this extension pack ?
 
 I publish videos on Youtube (https://www.youtube.com/c/yoandevco) and this pack offers the list of extensions that I use in the videos.
 
@@ -15,6 +15,8 @@ I publish videos on Youtube (https://www.youtube.com/c/yoandevco) and this pack 
 - [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver)
 
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
+
+- [PHP CS FIXER](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
 
 ### Twig
 
@@ -69,7 +71,10 @@ I publish videos on Youtube (https://www.youtube.com/c/yoandevco) and this pack 
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 
-        "junstyle.php-cs-fixer", 
-        "mikestead.dotenv", 
-        "ritwickdey.LiveServer", 
-        "tomasvergara.vscode-fontawesome-gallery"
+### Other
+
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+- [Font Awesome Gallery](https://marketplace.visualstudio.com/items?itemName=tomasvergara.vscode-fontawesome-gallery)
